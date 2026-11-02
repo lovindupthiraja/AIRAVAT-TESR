@@ -1,0 +1,9 @@
+# Decompiled APK folder (temp build artifact)
+Instagram_decompiled/
+
+# Signing keystore
+debug-key.jks
+*.jks
+
+# APK signature file
+*.idsig
